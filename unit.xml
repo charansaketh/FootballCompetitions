@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 91.0.4472 (Mac OS X 10.15.7)" package="unit" timestamp="2021-07-21T18:58:33" id="0" hostname="LOH085W201LHTD6.cardinalhealth.net" tests="4" errors="0" failures="0" time="0.149">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/91.0.4472.164 Safari/537.36"/>
+  </properties>
+  <testcase name="FootballCompetitions Should show correct results when page 2 is clicked" time="0.054" classname=".FootballCompetitions"/>
+  <testcase name="FootballCompetitions Should render the Initial UI as expected" time="0.043" classname=".FootballCompetitions"/>
+  <testcase name="FootballCompetitions Should show correct results when page 3 is clicked" time="0.029" classname=".FootballCompetitions"/>
+  <testcase name="FootballCompetitions Should show correct results when page 4 is clicked" time="0.023" classname=".FootballCompetitions"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
